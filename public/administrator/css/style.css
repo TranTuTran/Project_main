@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 1000px;
+    margin: auto;
+}
+
+.wrapper .header {
+    height: 200px;
+    background-color: aqua;
+}
+
+.wrapper .footer {
+    height: 200px;
+    background-color: rosybrown;
+}
+
+.wrapper .container {
+    margin: 10px;
+}
+
+ul li {
+    list-style: none;
+}
+
+.alert {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+.alert-info {
+    background-color: greenyellow;
+    color: white;
+    padding: 10px;
+}
